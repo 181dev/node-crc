@@ -17,9 +17,9 @@
   "devDependencies": {
     "mocha": "*",
     "should": "*",
-    "coffee-script": "~1.7.1",
-    "coffee-errors": "~0.8.6",
-    "chai": "~1.9.1"
+    "coffee-script": "*",
+    "coffee-errors": "*",
+    "chai": "*"
   },
   "homepage": "https://github.com/alexgorbatchev/node-crc",
   "bugs": "https://github.com/alexgorbatchev/node-crc/issues",
